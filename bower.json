@@ -28,8 +28,8 @@
   ],
   "devDependencies": {
     "closure-library": "git@github.com:google/closure-library.git#eb26f425dbd99a70d2955d8fcc892f2fd0178acb",
-    "closure-compiler": "http://dl.google.com/closure-compiler/compiler-latest.tar.gz",
-    "libphonenumber": "git@github.com:googlei18n/libphonenumber.git#libphonenumber-7.0.6"
+    "closure-compiler": "http://dl.google.com/closure-compiler/compiler-20161024.zip",
+    "libphonenumber": "git@github.com:googlei18n/libphonenumber.git#libphonenumber-7.7.3"
   },
   "keywords": [
     "phone",

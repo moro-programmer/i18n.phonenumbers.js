@@ -104,7 +104,7 @@ gulp = require('gulp-help')(gulp, {
  * }}
  */
 var settings = {
-  compiler: 'bower_components/closure-compiler/compiler.jar',
+  compiler: 'bower_components/closure-compiler/closure-compiler-v20161024.jar',
   library: 'bower_components/closure-library/',
   output: {
     full: bundle.main,
